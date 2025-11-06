@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Angel</h1>
-    <h3 align="center">A passionate Frontend web developer from Perú.</h3>
+    <h3 align="center">A passionate Fullstack developer from Perú.</h3>
   
 </div>
 ---
