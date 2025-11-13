@@ -12,9 +12,9 @@ Soy un **Desarrollador Full Stack** con más de 1 año de experiencia en la crea
 
 Mi especialidad es el backend, donde he construido desde **sistemas ERP** completos con **Java** y **Spring Boot**, hasta **chatbots con IA** y **microservicios** usando **NestJS**. En el frontend, tengo experiencia con frameworks modernos como **React**, **Angular** y **Astro**.
 
-- 🚀 Apasionado por la automatización de procesos (CRM **Bitrix24**) y la integración de IA (**OpenAI**, **n8n**).
-- ☁️ Con experiencia en **Docker**, **Azure** y metodologías ágiles.
-- 📫 Puedes contactarme en: **angelocana44@gmail.com**
+- Implementación en automatización de procesos (CRM **Bitrix24**) y la integración de IA (**OpenAI**, **n8n**).
+- Con experiencia en **Docker**, **Azure** y metodologías ágiles.
+- Puedes contactarme en: **angelocana44@gmail.com**
 
 ---
 
