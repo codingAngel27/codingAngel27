@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200" />
-  <h1 align="center">Hola 👋, soy Angel</h1>
+  <h1 align="center">Hola 👋, soy Ruben Angel</h1>
   <h3 align="center">Desarrollador Full Stack | Java | NestJS | Microservicios</h3>
 </div>
 
